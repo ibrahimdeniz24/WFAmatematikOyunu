@@ -1,0 +1,10 @@
+C:\Users\ibrah\Desktop\Bilge Adam\WfaCsharpDersleri\WFAMatematikOyunu\WFAMatematikOyunu\bin\Debug\WFAMatematikOyunu.exe.config
+C:\Users\ibrah\Desktop\Bilge Adam\WfaCsharpDersleri\WFAMatematikOyunu\WFAMatematikOyunu\bin\Debug\WFAMatematikOyunu.exe
+C:\Users\ibrah\Desktop\Bilge Adam\WfaCsharpDersleri\WFAMatematikOyunu\WFAMatematikOyunu\bin\Debug\WFAMatematikOyunu.pdb
+C:\Users\ibrah\Desktop\Bilge Adam\WfaCsharpDersleri\WFAMatematikOyunu\WFAMatematikOyunu\obj\Debug\WFAMatematikOyunu.csproj.AssemblyReference.cache
+C:\Users\ibrah\Desktop\Bilge Adam\WfaCsharpDersleri\WFAMatematikOyunu\WFAMatematikOyunu\obj\Debug\WFAMatematikOyunu.Form1.resources
+C:\Users\ibrah\Desktop\Bilge Adam\WfaCsharpDersleri\WFAMatematikOyunu\WFAMatematikOyunu\obj\Debug\WFAMatematikOyunu.Properties.Resources.resources
+C:\Users\ibrah\Desktop\Bilge Adam\WfaCsharpDersleri\WFAMatematikOyunu\WFAMatematikOyunu\obj\Debug\WFAMatematikOyunu.csproj.GenerateResource.cache
+C:\Users\ibrah\Desktop\Bilge Adam\WfaCsharpDersleri\WFAMatematikOyunu\WFAMatematikOyunu\obj\Debug\WFAMatematikOyunu.csproj.CoreCompileInputs.cache
+C:\Users\ibrah\Desktop\Bilge Adam\WfaCsharpDersleri\WFAMatematikOyunu\WFAMatematikOyunu\obj\Debug\WFAMatematikOyunu.exe
+C:\Users\ibrah\Desktop\Bilge Adam\WfaCsharpDersleri\WFAMatematikOyunu\WFAMatematikOyunu\obj\Debug\WFAMatematikOyunu.pdb
